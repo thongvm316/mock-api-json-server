@@ -1,0 +1,267 @@
+{
+  "categories": [
+    {
+      "id": "d591640f-cd16-4b3b-a01d-71823ec5e992",
+      "name": "Shoes",
+      "createdAt": 1678602697144,
+      "updatedAt": 1678602697144
+    },
+    {
+      "id": "3ae9dea8-d881-451d-8be2-b1b37a87cbf4",
+      "name": "Baby",
+      "createdAt": 1678602697144,
+      "updatedAt": 1678602697144
+    },
+    {
+      "id": "5dc3650b-b369-479a-8e9a-8e3f1601da1e",
+      "name": "Industrial",
+      "createdAt": 1678602697144,
+      "updatedAt": 1678602697144
+    },
+    {
+      "id": "f9f9c8c0-2ea0-464a-be20-73f07d36f198",
+      "name": "Health",
+      "createdAt": 1678602697144,
+      "updatedAt": 1678602697144
+    },
+    {
+      "id": "d591640f-cd16-4b3b-a01d-71823ec5e118",
+      "name": "Macbook",
+      "createdAt": 1678610189732,
+      "updatedAt": 1678610189732
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "d591640f-cd16-4b3b-a01d-71823ec5e992",
+      "id": "a1067d09-aaba-4392-8a05-28e96e37e6e1",
+      "name": "Sleek Metal Chips",
+      "color": "gold12342",
+      "price": 700,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1678602697144,
+      "updatedAt": 1678610011072,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "d591640f-cd16-4b3b-a01d-71823ec5e992",
+      "id": "abf125a7-32eb-4f49-b87c-e477fae02bf6",
+      "name": "Rustic Granite Ball",
+      "color": "grey",
+      "price": 530,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1678602697144,
+      "updatedAt": 1678602697144,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "d591640f-cd16-4b3b-a01d-71823ec5e992",
+      "id": "5e46dc0e-79be-4b7c-b4b1-e70f9c3c74c6",
+      "name": "Practical Granite Salad",
+      "color": "lime",
+      "price": 12,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1678602697144,
+      "updatedAt": 1678602697144,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "d591640f-cd16-4b3b-a01d-71823ec5e992",
+      "id": "a7aa5c1a-ddbe-4797-9709-6a443cf2c05e",
+      "name": "Handcrafted Granite Tuna",
+      "color": "orchid",
+      "price": 330,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1678602697144,
+      "updatedAt": 1678602697144,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "d591640f-cd16-4b3b-a01d-71823ec5e992",
+      "id": "255b1432-6d69-4a48-91fe-7c6b138b27a2",
+      "name": "Fantastic Frozen Ball",
+      "color": "orchid",
+      "price": 572,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1678602697144,
+      "updatedAt": 1678602697144,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "3ae9dea8-d881-451d-8be2-b1b37a87cbf4",
+      "id": "0c618151-8fd0-4b40-b58e-6e736e98189d",
+      "name": "Handmade Fresh Soap",
+      "color": "lime",
+      "price": 582,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1678602697144,
+      "updatedAt": 1678602697144,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "3ae9dea8-d881-451d-8be2-b1b37a87cbf4",
+      "id": "c4d0bb64-a708-4a13-84c4-717b892d9f1e",
+      "name": "Sleek Plastic Bacon",
+      "color": "red",
+      "price": 477,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "3ae9dea8-d881-451d-8be2-b1b37a87cbf4",
+      "id": "b8517a12-68d7-4cdd-82f5-b4b6bf0177a4",
+      "name": "Tasty Fresh Fish",
+      "color": "blue",
+      "price": 213,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "3ae9dea8-d881-451d-8be2-b1b37a87cbf4",
+      "id": "07344e90-b91b-4e3c-8305-8ac856d977b6",
+      "name": "Gorgeous Frozen Bacon",
+      "color": "blue",
+      "price": 42,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "3ae9dea8-d881-451d-8be2-b1b37a87cbf4",
+      "id": "9e940818-d68e-4304-a2d4-28e8c7709c3f",
+      "name": "Generic Granite Pizza",
+      "color": "olive",
+      "price": 482,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5dc3650b-b369-479a-8e9a-8e3f1601da1e",
+      "id": "3245a395-21ec-454e-b669-0e3f9a85014b",
+      "name": "Gorgeous Metal Bike",
+      "color": "orange",
+      "price": 154,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5dc3650b-b369-479a-8e9a-8e3f1601da1e",
+      "id": "1fc1d591-279a-4944-90d2-68c22a792efa",
+      "name": "Rustic Granite Ball",
+      "color": "black",
+      "price": 511,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5dc3650b-b369-479a-8e9a-8e3f1601da1e",
+      "id": "bcbb8c62-b5b0-4077-bce5-9ac76e376069",
+      "name": "Incredible Fresh Towels",
+      "color": "yellow",
+      "price": 626,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5dc3650b-b369-479a-8e9a-8e3f1601da1e",
+      "id": "a52ea769-17a2-4e83-86d0-56bf9c01b3f9",
+      "name": "Handcrafted Wooden Computer",
+      "color": "lime",
+      "price": 420,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5dc3650b-b369-479a-8e9a-8e3f1601da1e",
+      "id": "3ae09acc-44c6-4718-a75e-0fe4fed02a5b",
+      "name": "Intelligent Concrete Mouse",
+      "color": "white",
+      "price": 318,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "f9f9c8c0-2ea0-464a-be20-73f07d36f198",
+      "id": "1f95dbbd-4322-4572-80a1-caf6c9bcfe08",
+      "name": "Refined Fresh Bacon",
+      "color": "yellow",
+      "price": 886,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "f9f9c8c0-2ea0-464a-be20-73f07d36f198",
+      "id": "6d74311e-97b5-4efc-a54d-287f9c0dab0b",
+      "name": "Tasty Frozen Keyboard",
+      "color": "lime",
+      "price": 58,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "f9f9c8c0-2ea0-464a-be20-73f07d36f198",
+      "id": "13473163-e53a-4989-bfdc-a896d61cb30b",
+      "name": "Practical Fresh Chips",
+      "color": "pink",
+      "price": 609,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "f9f9c8c0-2ea0-464a-be20-73f07d36f198",
+      "id": "d48a1c45-dd6d-405a-a8b2-ca706ff67c5a",
+      "name": "Fantastic Cotton Bike",
+      "color": "sky blue",
+      "price": 479,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "f9f9c8c0-2ea0-464a-be20-73f07d36f198",
+      "id": "5969d2e6-45d8-42ff-9afc-6ddb179a457d",
+      "name": "Handcrafted Fresh Towels",
+      "color": "purple",
+      "price": 882,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1678602697145,
+      "updatedAt": 1678602697145,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "d591640f-cd16-4b3b-a01d-7182312321312312",
+      "id": "a1067d09-aaba-4392-8a05-28e96e37e777",
+      "name": "Test Item",
+      "color": "pink",
+      "price": 700,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1678610310878,
+      "updatedAt": 1678610310878,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    }
+  ]
+}
