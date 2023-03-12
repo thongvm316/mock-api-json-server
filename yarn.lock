@@ -388,11 +388,6 @@ debug@^3.2.7:
   dependencies:
     ms "^2.1.1"
 
-decode-uri-component@^0.2.0:
-  version "0.2.2"
-  resolved "https://registry.navercorp.com:443/api/npm/npm-naver/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
-  integrity sha1-5p2+JdN5QRcd1UDgJMREzVGI4ek=
-
 deep-is@^0.1.3:
   version "0.1.4"
   resolved "https://registry.navercorp.com:443/api/npm/npm-naver/deep-is/-/deep-is-0.1.4.tgz#a6f2dce612fadd2ef1f519b73551f17e85199831"
@@ -833,11 +828,6 @@ file-entry-cache@^6.0.1:
   integrity sha1-IRst2WWcsDlLBz5zI6w8kz1SICc=
   dependencies:
     flat-cache "^3.0.4"
-
-filter-obj@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.navercorp.com:443/api/npm/npm-naver/filter-obj/-/filter-obj-1.1.0.tgz#9b311112bc6c6127a16e016c6c5d7f19e0805c5b"
-  integrity sha1-mzERErxsYSehbgFsbF1/GeCAXFs=
 
 finalhandler@1.2.0:
   version "1.2.0"
@@ -1753,16 +1743,6 @@ qs@6.11.0:
   dependencies:
     side-channel "^1.0.4"
 
-query-string@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.navercorp.com:443/api/npm/npm-naver/query-string/-/query-string-7.0.0.tgz#aaad2c8d5c6a6d0c6afada877fecbd56af79e609"
-  integrity sha1-qq0sjVxqbQxq+tqHf+y9Vq955gk=
-  dependencies:
-    decode-uri-component "^0.2.0"
-    filter-obj "^1.1.0"
-    split-on-first "^1.0.0"
-    strict-uri-encode "^2.0.0"
-
 queue-microtask@^1.2.2:
   version "1.2.3"
   resolved "https://registry.navercorp.com:443/api/npm/npm-naver/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
@@ -1960,11 +1940,6 @@ side-channel@^1.0.4:
     get-intrinsic "^1.0.2"
     object-inspect "^1.9.0"
 
-split-on-first@^1.0.0:
-  version "1.1.0"
-  resolved "https://registry.navercorp.com:443/api/npm/npm-naver/split-on-first/-/split-on-first-1.1.0.tgz#f610afeee3b12bce1d0c30425e76398b78249a5f"
-  integrity sha1-9hCv7uOxK84dDDBCXnY5i3gkml8=
-
 standard-engine@^15.0.0:
   version "15.0.0"
   resolved "https://registry.navercorp.com:443/api/npm/npm-naver/standard-engine/-/standard-engine-15.0.0.tgz#e37ca2e1a589ef85431043a3e87cb9ce95a4ca4e"
@@ -2000,11 +1975,6 @@ steno@^0.4.1:
   integrity sha1-BxEFvfwobmYVwEA8J+nXtdy4Vcs=
   dependencies:
     graceful-fs "^4.1.3"
-
-strict-uri-encode@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.navercorp.com:443/api/npm/npm-naver/strict-uri-encode/-/strict-uri-encode-2.0.0.tgz#b9c7330c7042862f6b142dc274bbcc5866ce3546"
-  integrity sha1-ucczDHBChi9rFC3CdLvMWGbONUY=
 
 string-width@^4.1.0, string-width@^4.2.0, string-width@^4.2.3:
   version "4.2.3"
