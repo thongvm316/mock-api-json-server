@@ -45,13 +45,6 @@ router.render = (req, res) => {
         _limit: Number.parseInt(queryParams._limit) || 10,
         _totalRows: Number.parseInt(totalCountHeader),
       },
-      paging: {
-        nextParams: {
-          after: '2',
-        },
-        pageNo: 1,
-        maxPageNo: 2,
-      },
     }
 
     return res.jsonp(result)
