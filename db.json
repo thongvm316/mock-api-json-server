@@ -23,6 +23,12 @@
       "name": "Clothing",
       "createdAt": 1678755014178,
       "updatedAt": 1678755014178
+    },
+    {
+      "id": "d591640f-cd16-4b3b-a01d-71823ec5e117",
+      "name": "Macbook",
+      "createdAt": 1678602697144,
+      "updatedAt": 1678602697144
     }
   ],
   "products": [
@@ -245,6 +251,408 @@
       "createdAt": 1678755014179,
       "updatedAt": 1678755014179,
       "thumbnailUrl": "http://placeimg.com/400/400"
+    }
+  ],
+  "specialAuthority": [
+    {
+      "key": "1",
+      "communityName": "RxjRkJTeeS",
+      "permissions": "duAOP9al",
+      "wid": "tl9pn",
+      "globalNickname": "H0wLdS0OM0Pe",
+      "registrant": "nbXr0T",
+      "registrationDate": "2021-04-09",
+      "permissionExpirationDate": "2023-06-09"
+    },
+    {
+      "key": "2",
+      "communityName": "ihNcEtc5qp",
+      "permissions": "p45hyP9o",
+      "wid": "CDOPH",
+      "globalNickname": "qsdoEZxiM7q5",
+      "registrant": "UFa05K",
+      "registrationDate": "2023-03-23",
+      "permissionExpirationDate": "2024-04-19"
+    },
+    {
+      "key": "3",
+      "communityName": "X95ghNQCwD",
+      "permissions": "3ZcgHZN5",
+      "wid": "ue99C",
+      "globalNickname": "w3WPTn6ULXvC",
+      "registrant": "lPeYN3",
+      "registrationDate": "2020-12-03",
+      "permissionExpirationDate": "2024-03-22"
+    },
+    {
+      "key": "4",
+      "communityName": "SsvKdme5vu",
+      "permissions": "lUWKIyzl",
+      "wid": "OXgiv",
+      "globalNickname": "Ru8N7G6WWFSe",
+      "registrant": "QpkvTf",
+      "registrationDate": "2022-04-02",
+      "permissionExpirationDate": "2024-02-07"
+    },
+    {
+      "key": "5",
+      "communityName": "nv7SAsndFE",
+      "permissions": "iFgQYsTk",
+      "wid": "bt3eR",
+      "globalNickname": "MshzMZsLVqfy",
+      "registrant": "lpMvYr",
+      "registrationDate": "2020-05-19",
+      "permissionExpirationDate": "2024-10-25"
+    },
+    {
+      "key": "6",
+      "communityName": "2i9ezCNDIh",
+      "permissions": "q606lcCG",
+      "wid": "1ec1n",
+      "globalNickname": "AoU20jQoOBGL",
+      "registrant": "Puszoh",
+      "registrationDate": "2021-08-22",
+      "permissionExpirationDate": "2023-07-09"
+    },
+    {
+      "key": "7",
+      "communityName": "Gn11C6BJoh",
+      "permissions": "Vol7ubXC",
+      "wid": "5OPiU",
+      "globalNickname": "7T15StusDZE3",
+      "registrant": "PmRdfE",
+      "registrationDate": "2021-11-30",
+      "permissionExpirationDate": "2024-03-10"
+    },
+    {
+      "key": "8",
+      "communityName": "3a6uWuE9Ky",
+      "permissions": "hmmGfilR",
+      "wid": "GqO7x",
+      "globalNickname": "sgCtvsmsTJHN",
+      "registrant": "wT3Iaq",
+      "registrationDate": "2020-11-06",
+      "permissionExpirationDate": "2024-07-17"
+    },
+    {
+      "key": "9",
+      "communityName": "wcNzsEs6bJ",
+      "permissions": "8umXchSX",
+      "wid": "JdAjZ",
+      "globalNickname": "1VgiDsIkrgrq",
+      "registrant": "81o1yP",
+      "registrationDate": "2022-11-19",
+      "permissionExpirationDate": "2023-05-21"
+    },
+    {
+      "key": "10",
+      "communityName": "pcyJ6DMGaF",
+      "permissions": "iaIFJ748",
+      "wid": "Hco1S",
+      "globalNickname": "oxwsn2TB03Ui",
+      "registrant": "MtCFxF",
+      "registrationDate": "2023-08-11",
+      "permissionExpirationDate": "2023-11-14"
+    },
+    {
+      "key": "11",
+      "communityName": "uN4P1pxNxa",
+      "permissions": "NtEYeiZS",
+      "wid": "WOydM",
+      "globalNickname": "zsEPdyE7ToZr",
+      "registrant": "YyQzd5",
+      "registrationDate": "2023-07-28",
+      "permissionExpirationDate": "2023-07-23"
+    },
+    {
+      "key": "12",
+      "communityName": "YBhhCjRGRS",
+      "permissions": "StBwLu1A",
+      "wid": "D7yLq",
+      "globalNickname": "YwwSUqNMJbcC",
+      "registrant": "RGU05C",
+      "registrationDate": "2023-09-02",
+      "permissionExpirationDate": "2024-03-25"
+    },
+    {
+      "key": "13",
+      "communityName": "KoAhcjHVsR",
+      "permissions": "KwKYe0UM",
+      "wid": "exItC",
+      "globalNickname": "KkT5EOgINoN7",
+      "registrant": "2qzJvb",
+      "registrationDate": "2020-06-10",
+      "permissionExpirationDate": "2023-01-06"
+    },
+    {
+      "key": "14",
+      "communityName": "jQIKmewENf",
+      "permissions": "MqqI7wyG",
+      "wid": "Y8pmq",
+      "globalNickname": "JWutBw1QJMLl",
+      "registrant": "JoneNn",
+      "registrationDate": "2021-07-21",
+      "permissionExpirationDate": "2023-10-09"
+    },
+    {
+      "key": "15",
+      "communityName": "ZJi8AI7ShM",
+      "permissions": "aEraUtOn",
+      "wid": "aalmR",
+      "globalNickname": "LlcEguaMFsP6",
+      "registrant": "zWNnq0",
+      "registrationDate": "2023-09-15",
+      "permissionExpirationDate": "2023-06-13"
+    },
+    {
+      "key": "16",
+      "communityName": "ChdPdVY1Ue",
+      "permissions": "WghAmAXE",
+      "wid": "JxSni",
+      "globalNickname": "dEfV53dheoPj",
+      "registrant": "9xZpwF",
+      "registrationDate": "2023-04-15",
+      "permissionExpirationDate": "2023-01-05"
+    },
+    {
+      "key": "17",
+      "communityName": "JNJlkpg82i",
+      "permissions": "sxeuoIhy",
+      "wid": "a3Gwe",
+      "globalNickname": "rMmWpEHGP6wK",
+      "registrant": "wsBsY9",
+      "registrationDate": "2022-10-03",
+      "permissionExpirationDate": "2023-02-06"
+    },
+    {
+      "key": "18",
+      "communityName": "6BkYMw5OTw",
+      "permissions": "1RSfltYR",
+      "wid": "H0Ac4",
+      "globalNickname": "fV1wP5NR8uJK",
+      "registrant": "3tIMnK",
+      "registrationDate": "2022-06-27",
+      "permissionExpirationDate": "2023-11-10"
+    },
+    {
+      "key": "19",
+      "communityName": "btS6J02lqk",
+      "permissions": "jBXBewGV",
+      "wid": "zXn83",
+      "globalNickname": "e1QGUpvufyAd",
+      "registrant": "yUZuhg",
+      "registrationDate": "2022-11-12",
+      "permissionExpirationDate": "2023-07-09"
+    },
+    {
+      "key": "20",
+      "communityName": "EzJEBjdEUz",
+      "permissions": "VwFF9GUq",
+      "wid": "Ojdtr",
+      "globalNickname": "jMl3tcmcNyKg",
+      "registrant": "XIbVN7",
+      "registrationDate": "2023-12-29",
+      "permissionExpirationDate": "2023-03-03"
+    },
+    {
+      "key": "21",
+      "communityName": "Vt90zWnTnz",
+      "permissions": "aZXAHsX6",
+      "wid": "fDap7",
+      "globalNickname": "CrFJQfcFdBJQ",
+      "registrant": "46YL8s",
+      "registrationDate": "2023-10-10",
+      "permissionExpirationDate": "2023-04-29"
+    },
+    {
+      "key": "22",
+      "communityName": "cwRtL5qsKD",
+      "permissions": "QDQyRlhG",
+      "wid": "2dQoM",
+      "globalNickname": "daHEWjziQOfB",
+      "registrant": "LtSkpu",
+      "registrationDate": "2021-09-02",
+      "permissionExpirationDate": "2024-08-22"
+    },
+    {
+      "key": "23",
+      "communityName": "sJayx1DQmR",
+      "permissions": "twtU0hfP",
+      "wid": "GoLJJ",
+      "globalNickname": "bvVp86VhE2b7",
+      "registrant": "toKdNC",
+      "registrationDate": "2022-01-05",
+      "permissionExpirationDate": "2023-08-23"
+    },
+    {
+      "key": "24",
+      "communityName": "bkdR0zqWW3",
+      "permissions": "ey73pz5V",
+      "wid": "7sDXC",
+      "globalNickname": "ASTQSDTxPF3f",
+      "registrant": "scn2M7",
+      "registrationDate": "2023-11-28",
+      "permissionExpirationDate": "2023-04-25"
+    },
+    {
+      "key": "25",
+      "communityName": "aqjIYRtnZT",
+      "permissions": "KUQsZelU",
+      "wid": "TcX3P",
+      "globalNickname": "HdrjYjUxlaFr",
+      "registrant": "Nkf65R",
+      "registrationDate": "2020-07-28",
+      "permissionExpirationDate": "2023-07-18"
+    },
+    {
+      "key": "26",
+      "communityName": "vps4UKQUrS",
+      "permissions": "2MzG4Y6Q",
+      "wid": "60GQ4",
+      "globalNickname": "xIPP2Q1xXL99",
+      "registrant": "vRSikx",
+      "registrationDate": "2021-10-20",
+      "permissionExpirationDate": "2023-06-20"
+    },
+    {
+      "key": "27",
+      "communityName": "iV2MM8i7hC",
+      "permissions": "Q3RsMrL7",
+      "wid": "mlKCT",
+      "globalNickname": "3EtK1CvsyfUy",
+      "registrant": "8Vx6WW",
+      "registrationDate": "2022-09-25",
+      "permissionExpirationDate": "2024-04-25"
+    },
+    {
+      "key": "28",
+      "communityName": "fO7489ELOn",
+      "permissions": "f5KKWEcG",
+      "wid": "ARi0C",
+      "globalNickname": "yqWPQ1DGJiQv",
+      "registrant": "mEqxhR",
+      "registrationDate": "2021-12-06",
+      "permissionExpirationDate": "2023-03-28"
+    },
+    {
+      "key": "29",
+      "communityName": "nuDL9oURD9",
+      "permissions": "t5iW1XLJ",
+      "wid": "ZMzzW",
+      "globalNickname": "nZwD4c4Wmt30",
+      "registrant": "Xw6AjR",
+      "registrationDate": "2022-08-25",
+      "permissionExpirationDate": "2023-12-07"
+    },
+    {
+      "key": "30",
+      "communityName": "GXE6pkNz3g",
+      "permissions": "80bnVQa1",
+      "wid": "IPat9",
+      "globalNickname": "XoVfCE3ND5ln",
+      "registrant": "rdpiJD",
+      "registrationDate": "2022-12-12",
+      "permissionExpirationDate": "2023-07-28"
+    },
+    {
+      "key": "31",
+      "communityName": "P53inKPFlu",
+      "permissions": "gBCH5EWB",
+      "wid": "khg4B",
+      "globalNickname": "Cg139rfQ8lvO",
+      "registrant": "Iix5lv",
+      "registrationDate": "2020-10-17",
+      "permissionExpirationDate": "2024-03-27"
+    },
+    {
+      "key": "32",
+      "communityName": "h36HoY1eHR",
+      "permissions": "Ed6KUvtZ",
+      "wid": "KCQkI",
+      "globalNickname": "10UR0R7Qx67Z",
+      "registrant": "pwa12d",
+      "registrationDate": "2022-12-07",
+      "permissionExpirationDate": "2024-05-09"
+    },
+    {
+      "key": "33",
+      "communityName": "OhoLseCEMs",
+      "permissions": "oXl2WIs6",
+      "wid": "vZiBY",
+      "globalNickname": "QPH90ZNqJ6Sq",
+      "registrant": "yGbKuw",
+      "registrationDate": "2022-04-19",
+      "permissionExpirationDate": "2024-10-23"
+    },
+    {
+      "key": "34",
+      "communityName": "u0rlicKRKJ",
+      "permissions": "FplaU3mB",
+      "wid": "beT3V",
+      "globalNickname": "hcc42b6RncWO",
+      "registrant": "ONAajo",
+      "registrationDate": "2020-07-10",
+      "permissionExpirationDate": "2023-07-03"
+    },
+    {
+      "key": "35",
+      "communityName": "wlKsqEqv7w",
+      "permissions": "BwgB5Juv",
+      "wid": "UfLwI",
+      "globalNickname": "lDcxUBpjyjvy",
+      "registrant": "rJkDWg",
+      "registrationDate": "2020-08-11",
+      "permissionExpirationDate": "2023-05-09"
+    },
+    {
+      "key": "36",
+      "communityName": "7ETPuxhqkt",
+      "permissions": "74SQmRqH",
+      "wid": "TIPu5",
+      "globalNickname": "RMIYqt53MB77",
+      "registrant": "CIxNQ8",
+      "registrationDate": "2023-06-26",
+      "permissionExpirationDate": "2024-03-17"
+    },
+    {
+      "key": "37",
+      "communityName": "ICIwqybwnH",
+      "permissions": "XXZXmbF1",
+      "wid": "HQWf6",
+      "globalNickname": "W2r4lCsDmAAD",
+      "registrant": "AZK3nz",
+      "registrationDate": "2023-05-27",
+      "permissionExpirationDate": "2024-08-01"
+    },
+    {
+      "key": "38",
+      "communityName": "tSCE6kCByL",
+      "permissions": "h680HDJB",
+      "wid": "WjsHM",
+      "globalNickname": "ylU66rzhHueS",
+      "registrant": "4Dlt3b",
+      "registrationDate": "2020-07-01",
+      "permissionExpirationDate": "2024-11-23"
+    },
+    {
+      "key": "39",
+      "communityName": "NuDGKdnfPA",
+      "permissions": "yvO4LURw",
+      "wid": "z3xGo",
+      "globalNickname": "lxeI4qZKUBCf",
+      "registrant": "LJRWED",
+      "registrationDate": "2021-10-21",
+      "permissionExpirationDate": "2023-10-20"
+    },
+    {
+      "key": "40",
+      "communityName": "32ObmTv3OO",
+      "permissions": "AFfJRUKa",
+      "wid": "rMpEO",
+      "globalNickname": "uwIe3xgFTKb0",
+      "registrant": "9Uwk3n",
+      "registrationDate": "2020-10-10",
+      "permissionExpirationDate": "2024-03-02"
     }
   ]
 }

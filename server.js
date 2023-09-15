@@ -54,7 +54,6 @@ router.render = (req, res) => {
   res.jsonp(res.locals.data)
 }
 
-server.use(jsonServer.bodyParser)
 server.use(jsonServer.rewriter(routes))
 server.use(router)
 
